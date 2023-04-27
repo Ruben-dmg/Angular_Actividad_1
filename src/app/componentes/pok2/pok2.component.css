@@ -1,0 +1,8 @@
+.p2{
+    cursor: pointer;
+    transition: all 0.5s ease-out;
+}
+
+.p2:hover{
+    transform: scale(1.15) rotate(-10deg);
+}
